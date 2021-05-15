@@ -1,0 +1,13 @@
+package com.brewery.service.brewerybeerservice;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class BreweryBeerServiceApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(BreweryBeerServiceApplication.class, args);
+	}
+
+}
